@@ -9,7 +9,7 @@ AngularJS is a structural framework for dynamic web apps. It lets you use HTML a
 language and lets you extend HTML's syntax to express your application's components clearly and
 succinctly. Out of the box, it eliminates much of the code you currently write through data
 binding and dependency injection. And it all happens in JavaScript within the browser, making it
-an ideal partner with any server technology.
+an ideal partner for any server technology.
 
 Angular is what HTML would have been had it been designed for applications. HTML is a great
 declarative language for static documents. It does not contain much in the way of creating
